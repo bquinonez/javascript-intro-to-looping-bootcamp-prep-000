@@ -21,10 +21,10 @@ function whileLoop(n) {
 
 
 
-var i = 10;
+var x = 10;
  
 function doWhileLoop(num) {
-  i = i++;
+  x = x++;
   return i;
 }
  
