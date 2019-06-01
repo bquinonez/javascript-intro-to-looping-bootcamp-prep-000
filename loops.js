@@ -25,7 +25,7 @@ var x = 10;
  
 function doWhileLoop(num) {
   x = x++;
-  return i;
+  return x;
 }
  
 do {
