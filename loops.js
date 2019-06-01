@@ -23,7 +23,7 @@ function whileLoop(n) {
 
 var i = 10;
  
-function incrementVariable() {
+function doWhileLoop(num) {
   i = i + 1;
   return i;
 }
