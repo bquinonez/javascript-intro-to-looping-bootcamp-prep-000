@@ -24,7 +24,7 @@ function whileLoop(n) {
 var x = 10;
  
 function doWhileLoop(num) {
-  x = x++;
+  x = x ;
   return x;
 }
  
