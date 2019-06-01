@@ -18,6 +18,4 @@ function whileLoop(n) {
     return "done";
   }
   
-   array;
-}
-  
+   
